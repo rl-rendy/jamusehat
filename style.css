@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+  position: relative;
+  z-index: 1;
+ }
+ .navbar-brand {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+ }
+/* Bagian memperbesar teks bagian header */
+  .nav-link {
+    text-transform: uppercase;
+    margin-right: 30px;
+    }
+    .profile-section {
+      background-color: #fff;
+      padding: 50px 0;
+    }
+    .profile-section h2 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    .profile-section p {
+      font-size: 1rem;
+      line-height: 1.6;
+      color: #555;
+    }
+    .profile-section .read-more-btn {
+      background-color: #d9534f;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+    .profile-section .read-more-btn:hover {
+      background-color: #c9302c;
+    }
+      
+
+  /* bagian footer */
+  .footer {
+    background-color: #2e2a2a;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 100px;
+}
+.footer p {
+    color: #acacac;
+    font-size: 18px;
+}
+/* Footer */
+.footer {
+    margin-top: 100px;
+}
+.footer p {
+    color: #acacac;
+    font-size: 18px;
+}
