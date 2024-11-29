@@ -29,19 +29,6 @@ body {
       line-height: 1.6;
       color: #555;
     }
-    .profile-section .read-more-btn {
-      background-color: #d9534f;
-      color: #fff;
-      padding: 10px 20px;
-      border: none;
-      border-radius: 5px;
-      text-decoration: none;
-    }
-    .profile-section .read-more-btn:hover {
-      background-color: #c9302c;
-    }
-      
-
   /* bagian footer */
   .footer {
     background-color: #2e2a2a;
